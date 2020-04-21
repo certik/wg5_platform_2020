@@ -40,7 +40,8 @@ convenor.
 
 This is one of the most upvoted proposals at
 our J3 proposals GitHub repository
-(https://github.com/j3-fortran/fortran_proposals/issues/36). It
+([fortran_proposals #36](https://github.com/j3-fortran/fortran_proposals/issues/36)).
+It
 fixes two issues: significantly speeds up getting new features into the language
 and at the same time prevents not well developed features from getting into the
 language by allowing as much time as needed to discuss and refine each proposal
@@ -53,8 +54,8 @@ help get proposals ready and ship a standard at a given date.
 
 The J3 Committee currently does not have a written down set of rules how a new
 proposal will get reviewed and eventually accepted or rejected. I submitted a
-draft that many people upvoted of an example of such
-rules (https://github.com/j3-fortran/fortran_proposals/issues/98),
+draft that many people upvoted of an example of such rules
+([fortran_proposals #98](https://github.com/j3-fortran/fortran_proposals/issues/98)),
 which we can use as a starting point to discuss and agree on a set of
 operating rules and procedures. The WG5 convenor can help facilitate this
 process.
@@ -74,11 +75,9 @@ encourage and try to do that.
 
 ## Be community driven
 
-The Committee should consider and discuss
-proposals from
-the Fortran community and focus on community priorities, as outlined by which
-proposals the community wants to see
-implemented (https://github.com/j3-fortran/fortran_proposals/issues?q=is\%3Aissue+is\%3Aopen+sort\%3Areactions-\%2B1-desc).
+The Committee should consider and discuss proposals from the Fortran community
+and focus on community priorities, as outlined by which proposals the community
+[wants to see implemented](https://github.com/j3-fortran/fortran_proposals/issues?q=is\%3Aissue+is\%3Aopen+sort\%3Areactions-\%2B1-desc).
 In addition each proposal that the Committee considers should have high support
 at the J3 Github repository. The Committee should not consider proposals that
 have not been discussed at GitHub ahead of time, or do not have wide support.
