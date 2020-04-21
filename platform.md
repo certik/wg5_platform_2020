@@ -77,7 +77,7 @@ encourage and try to do that.
 
 The Committee should consider and discuss proposals from the Fortran community
 and focus on community priorities, as outlined by which proposals the community
-[wants to see implemented](https://github.com/j3-fortran/fortran_proposals/issues?q=is\%3Aissue+is\%3Aopen+sort\%3Areactions-\%2B1-desc).
+[wants to see implemented](https://github.com/j3-fortran/fortran_proposals/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
 In addition each proposal that the Committee considers should have high support
 at the J3 Github repository. The Committee should not consider proposals that
 have not been discussed at GitHub ahead of time, or do not have wide support.
